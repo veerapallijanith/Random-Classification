@@ -28,7 +28,7 @@ To write a python program to perform random classification.
 ```python
 
 #Program to implement random classification.
-#Developed by   : VEERAPALLI JANITH CHOWDARY
+#Developed by   : JANITH CHOWDARY
 #Register Number : 212220230057
 
 
